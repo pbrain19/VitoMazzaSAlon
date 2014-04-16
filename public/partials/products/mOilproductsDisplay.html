@@ -1,0 +1,30 @@
+<div class="span12 catHeader">
+    <div class="span6"> 
+        <h1>CHOOSE YOUR PRODUCT</h1>
+        <hr class="superLine">
+    </div>
+    <div class=" offset3 span3">
+        <img class="mLogo" src="img/generic/mOil/Moroccanoil_logo.png" >
+    </div>
+</div>
+
+<div class="span9">       
+    <div class="container-fluid productsContainer">
+        <div class="productGallery" ng-animate="{enter:'animatedIn fadeIn',leave:'animatedOut fadeOut'}" ng-click="open(product)" ng-repeat="product in products| filter:productFilter" >
+            <h4 align="center">{{product.name}}</h4>
+            <img  ng-src="{{product.img}}" >
+        </div>
+    </div>
+</div>
+
+
+<div class="span3 productFilter">
+
+    <h4 class="spHeader" align="center">BROWSE BY COLLECTION</h4>
+    <div class="filterContainer">
+        <button class="fButton"  ng-click="setFilter(cat.cat)" ng-repeat="cat in cats">{{cat.title}}</button>
+    </div>
+    <img class="goBack" src="img/go_back.png" ng-click="backToMCat()">
+</div>
+
+

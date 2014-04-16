@@ -1,0 +1,26 @@
+
+<img class="nHeader" ng-src="{{currentCategory.head}}" alt="some image">
+<div class="row-fluid products">
+
+    <div class="span9">
+        <div class="container-fluid MproductsContainer">
+            <div class="NproductGallery" ng-animate="{enter:'animatedIn rollIn',leave:'animatedOut rollOut'}"  ng-click="openN(product)" ng-repeat="product in products| filter:productFilter">
+                <h4 align="center">{{product.name}}</h4>
+                <img  ng-src="{{product.images[0]}}" >
+            </div>
+        </div>
+    </div>
+    <div class="span3 NproductFilter">
+
+        <h4 align="center">BROWSE BY TREATMENT</h4>
+        <div class="filterContainer">
+            <div class="mButton" ng-click="setNFilter(cat)" ng-repeat="cat in cats" >
+                {{cat.title}} 
+            </div>
+
+        </div>
+        
+        <img class="NgoBack" src="img/go_back.png" ng-click="backToNCat()">
+    </div>
+</div>
+

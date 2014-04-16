@@ -1,0 +1,16 @@
+{
+    "name": "Vito Mazza",
+    "description": "An interactive digital sinage application for a upscale salon",
+    "version": "0.7",
+    "app": {
+        "background": {
+            "scripts": ["background.js"]
+        }
+    },
+    "icons": { "128": "vito128.png"},
+    "permissions": [
+        "https://www.google-analytics.com/",
+        "storage",
+        "contextMenus"
+    ]
+}

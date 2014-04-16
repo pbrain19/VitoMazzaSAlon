@@ -1,0 +1,15 @@
+<img id="resetButton" src="img/close.png" class="pull-right resetApp" ng-click="resetApp()" > 
+<div class="span12 designerHeader">
+    <input type="text" placeholder="Search For Designer" ng-model="desin.name" id="desginerSearch" class="pull-right">
+    <p><span>Find Your</span> <span>Designer</span> </p> 
+
+</div>
+
+<div class="span12 carousels">
+    <div id="carousel">
+        <div ng-click="open(designer)" ng-animate="{enter:'animated flipInY', leave:' animated flipOutY'}" ng-repeat="designer in designers| filter:desin" >
+            <h3 align="center">{{designer.name}}</h3>
+            <img  ng-src="{{designer.images[0]}}">
+        </div>
+    </div>
+</div>

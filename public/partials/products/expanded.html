@@ -1,0 +1,24 @@
+
+<img id="resetButton" src="img/close.png" class="pull-right resetApp" ng-click="resetApp()" > 
+<div class="span12 catHeader">
+
+    <div class="span6"> 
+        <h1>BROWSE BY COLLECTION</h1>
+
+        <hr class="superLine">
+    </div>
+    <div class="offset3 span3">
+        <img class="mLogo" src="img/generic/mOil/Moroccanoil_logo.png" >
+    </div>
+</div>
+<div class="span12 productCaterogies">
+
+    
+        <div class="catContainer" ng-repeat="item in cats" ng-click="showProductInMCat(item.cat)"> 
+            <h4 align="center">{{item.title}}</h4>
+            <img  ng-src="{{item.img}}" >
+        </div> 
+    
+
+
+</div>

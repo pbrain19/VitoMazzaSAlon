@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html ng-app="myApp" ng-csp >
+    <!-- This code is only meant for previewing your Reflow design. -->
+    <head>
+
+
+        <title>Vito Mazza App</title>
+        <link rel="stylesheet" href="css/boilerplate.css" />
+        <link rel="stylesheet" href="css/page1.css" />
+        <meta charset="utf-8">
+        <meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
+        <link rel="stylesheet" href="css/bootstrap.min.css"> 
+        <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="css/keyboard.css">   
+        <link rel="stylesheet" href="css/jquery-ui.css" >
+        <link rel="stylesheet" href="animations/animate.css">
+
+    </head>
+    <body oncontextmenu="return false">
+        <div class ="overlay"></div>
+        <div id="primaryContainer" class="primaryContainer clearfix" ng-controller="mainCTRL">
+
+            <div id='box' class='clearfix'>
+                <img class ="cta" src ="img/pointer.png">
+                <div id='box1' class='clearfix'>
+                    <div class="span12 headerM"> 
+                        <img src="img/generic/vm-logokiosk.png" alt="logo">
+                    </div> 
+                </div>
+                <div id='Promotions' class='clearfix dynaDiv' ng-controller="promotionCTRL">
+                    <div ng-switch="promoPivot" ng-animate="{enter:'animated delayIt fadeInUpBig', leave:' animated fadeOut'}">
+                        <div ng-switch-default ng-include="'partials/promotions/normal.html'" >
+                        </div>
+
+                        <div ng-switch-when="mini" ng-include="'partials/promotions/mini.html'" >
+                        </div>
+
+
+                        <div ng-switch-when="expanded" ng-include="'partials/promotions/expanded.html'" >
+                        </div>
+                        <div ng-switch-when="expandedMini" ng-include="'partials/promotions/expandedMini.html'" >
+                        </div>
+                    </div>
+                </div>
+                <div id='Products'  class='clearfix dynaDiv' ng-controller="productsCTRL">
+                    <div ng-switch="productsPivot" ng-animate="{enter:'animated delayIt fadeInUpBig', leave:' animated  fadeOut'}">
+
+                        <div ng-switch-default ng-include="'partials/products/normal.html'" >
+                        </div>
+
+
+                        <div ng-switch-when="mini"   ng-include="'partials/products/mini.html'" >
+                        </div>
+
+
+                        <div ng-switch-when="mOilexpanded" class="mBackground" ng-include="'partials/products/expanded.html'" >
+                        </div>
+                        <div ng-switch-when="expandedMini" ng-include="'partials/products/expandedMini.html'" >
+                        </div>
+                        <div ng-switch-when="MproductDisplay"  class="mBackground" ng-include="'partials/products/mOilproductsDisplay.html'" >
+                        </div>
+                        <div ng-switch-when="nioxinExpanded"  ng-include="'partials/products/nioxinExpanded.html'" >
+                        </div>
+                        <div ng-switch-when="nioxinProducts"  ng-include="'partials/products/nioxinProducts.html'" >
+                        </div>
+                    </div>
+                </div>
+                <div id='repechage'  class='clearfix dynaDiv repBackground'  ng-controller="repcharge">
+                    <div ng-switch="repchargePivot" ng-animate="{enter:'animated delayIt fadeInUpBig', leave:' animated fadeOut'}">
+
+                        <div ng-switch-default ng-include="'partials/repcharge/normal.html'" >
+                        </div>
+
+
+                        <div ng-switch-when="mini" ng-include="'partials/repcharge/mini.html'" >
+                        </div>
+
+
+                        <div ng-switch-when="expanded"   ng-include="'partials/repcharge/expanded.html'" >
+                        </div>
+                        <div ng-switch-when="expandedMini"  ng-include="'partials/repcharge/expandedMini.html'" >
+                        </div>
+                        <div ng-switch-when="products" ng-include="'partials/repcharge/products.html'" >
+                        </div>
+                    </div>
+                </div>
+                <div id='designer' class='clearfix dynaDiv midSized' ng-controller="designer">
+
+                    <div ng-switch="designerPivot" ng-animate="{enter:'animated delayIt fadeInUpBig', leave:' animated fadeOut'}">
+                        <div ng-switch-default ng-include="'partials/Designers/normal.html'" >
+                        </div>
+
+                        <div ng-switch-when="miniHeight" ng-include="'partials/Designers/miniHeight.html'" >
+                        </div>
+                        <div ng-switch-when="miniWidth" ng-include="'partials/Designers/miniWidth.html'" >
+                        </div>
+
+
+                        <div ng-switch-when="expanded" ng-include="'partials/Designers/expanded.html'" >
+                        </div> 
+                    </div>
+
+                </div>
+                <div id='events' class='clearfix dynaDiv midSized' ng-controller="events">
+
+                    <div ng-switch="eventsPivot" ng-animate="{enter:'animated delayIt fadeInUpBig', leave:' animated fadeOut'}">
+                        <div ng-switch-default ng-include="'partials/events/normal.html'" >
+                        </div>
+
+                        <div ng-switch-when="miniHeight" ng-include="'partials/events/miniHeight.html'" >
+                        </div>
+                        <div ng-switch-when="miniWidth" ng-include="'partials/events/miniWidth.html'" >
+                        </div>
+
+
+                        <div ng-switch-when="expanded" ng-include="'partials/events/expanded.html'" >
+                        </div> 
+                    </div> 
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <script src="js/jquery-1.10.2.min.js"></script>
+        <script src="js/angular.min.js"></script>
+        <script src="js/jquery-ui.min.js"></script>
+        <script src="js/ang/app.js"></script>
+        <script src="js/ang/controllers.js"></script>
+        <script src="js/ang/directives.js"></script>
+        <script src="js/ang/filters.js"></script>
+        <script src="js/ang/services.js"></script>
+        <script src="js/jquery.ba-resize.js"></script>
+        <script src="js/ui-bootstrap-tpls-0.7.0.min.js"></script>  
+        <script src="js/jquery.keyboard.min.js"></script>
+        <script src="js/jquery.idle.js"></script>  
+        <script src="js/jquery.mousewheel.js"></script>   
+        <script src="js/app.js"></script> 
+        <script src="js/TweenMax.min.js"></script> 
+        <script src="js/TimelineMax.min.js"></script>
+
+    </body>
+</html>

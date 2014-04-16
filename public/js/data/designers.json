@@ -1,0 +1,324 @@
+{
+    "designers": [
+        {
+            "name": "Kristen Aleksandrich",
+            "title": "Associate Designer",
+            "details": [
+                ["What 3 words describe you?", "Personable, Passionate, Forthright"],
+                ["What is the highlight of your career so far?", "Photo shoot with NAHA finalist Charlie Price!"],
+                ["Where do you get your creative inspiration?", "My fellow co-workers. Being around passionate people every day makes me strive for more."],
+                ["Who is your style icon?", "Kim Kardashian"],
+                ["What do you do when you are not inspiring clients?", "Spending time with my family and helping others."]
+
+            ],
+            "membership": "VM Family Member Since 2008",
+            "images": ["img/designers/kristen_aleksandrich_profile.jpg"]
+        }, {
+            "name": "Lisa Montalto",
+            "title": "Senior Designer",
+            "details": [
+                ["What 3 words describe you?", "Outgoing, Creative & Warm."],
+                ["What makes you different... why should a guest visit you?", "Why should a guest visit you? Along with some amazing techniques and color knowledge, I feel the integrity of the hair is most important and would never compromise."],
+                ["What do you do when you are not inspiring clients?", "Spending time with my family."],
+                ["What is the most important lesson you learned along the way?", "Always listen!"] 
+            ],
+            "membership": "VM Family Member Since 2008",
+            "images": ["img/designers/lisa_montalto_profile.jpg"]
+        }, {
+            "name": "Jessica Gere",
+            "title": "Associate Designer",
+            "details": [
+                ["Why hair?", "It's an open canvas, it's versatile. Beauty can be created, sculpted and colored with hair."],
+                ["What makes you different... why should a guest visit you?", "Why should a guest visit you? Along with some amazing techniques and color knowledge, I feel the integrity of the hair is most important and would never compromise."],
+                ["What do you do when you are not inspiring clients?", "Being a wonderful mom and creating looks for brides."],
+                ["What is the most important lesson you learned along the way?", "Live in the moment and be present!"],
+                ["Where do you get your creative inspiration?", "Today, nature, art, movement, Vidal Sassoon, Nick French, Michael O’Rourke."]
+
+            ],
+            "membership": "VM Family Member Since 2006",
+            "images": ["img/designers/jess_gere_profile.jpg"]
+        }, {
+            "name": "Jennifer Loprete",
+            "title": "Master Designer & Creative Director",
+            "details": [
+                ["Why hair?", "I have the power to change not only their hair but alter the human spirit with the power of touch each and every day."],
+                ["What makes you different... why should a guest visit you?", "I am a skilled artist filled with passion for life. I provide outstanding, customized service for each client. I am an EXPERIENCE! I work from the heart and truly get to know my client as a person... also love to be on the cutting edge of what's new in our industry."],
+                ["What is the most important lesson you learned along the way?", "Live in the moment and be present!"],
+                ["What is your signature move?", "Laughing!! I do a lot of it and have the smile lines to prove it!"],
+                ["Who is your style icon?", "CoCo Chanel... timeless & fabulous!"]
+
+            ],
+            "membership": "VM Family Member Since 1998",
+            "images": ["img/designers/jennifer_loprete_profile.png"]
+        }, {
+            "name": "Magda Zachodna",
+            "title": "Senior Designer",
+            "details": [
+                ["What 3 words describe you?", "Nature, fashion shows, art, flowers…creative inspiration is everywhere."],
+                ["What makes you different... why should a guest visit you?", "Hair is my life... I can't imagine doing anything else. I love making people look and most importantly feel great!"],
+                ["What is your personal style?", "Edgy, chic and fashionable."],
+                ["What is your weapon of choice?", "A color brush and curling iron."],
+                ["What is your personality most like?", "Caring because I relate well with people. I'm very understanding and friendly."]
+
+
+            ],
+            "membership": "VM Family Member Since 2001",
+            "images": ["img/designers/magda_zachodna_profile.jpg"]
+        }, {
+            "name": "Jennifer Maharaj",
+            "title": "Senior Designer",
+            "details": [
+                ["Where do you get your creative inspiration?", "Fashion mags."],
+                ["What makes you different... why should a guest visit you?", "I listen to my clients requests while customizing their hair to fit their lifestyle."],
+                ["Who is your style icon?", "Bridget Bardot, Nicole Ritchie."],
+                ["What is your personal style?", "A little trendy, a little boho."],
+                ["What is your signature move?", "Creating beachy waves on long hair!"],
+                ["What is the most important lesson you learned along the way?", "The integrity of the hair is most important, therefore if the hair can't handle it... don't do it!"]
+
+
+            ],
+            "membership": "VM Family Member Since 1999",
+            "images": ["img/designers/jennifer_maharaj_profile.jpg"]
+        }, {
+            "name": "Angie Laracuente",
+            "title": "Associate Designer",
+            "details": [
+                ["What 3 words describe you?", "Friendly, Fun, Curious"],
+                ["Where do you get your creative inspiration?", "Watching hair shows on Bravo and in magazines."],
+                ["What makes you different... why should a guest visit you?", "I love listening to client stories. What brought them to VM... what special occasion is coming up... what's new in their life? I feel like every visit is a catch-up session. We have Fun!"],
+                ["What is your personal style?", "Latina flair :)"],
+                ["What is your signature move?", "round brush flip"]
+
+
+            ],
+            "membership": "VM Family Member Since 2005",
+            "images": ["img/designers/angie_laracuente_profile.jpg"]
+        }, {
+            "name": "Tiffany Caporaso",
+            "title": "Salon Associate",
+            "details": [
+                ["What 3 words describe you?", "Personable, Passionate, Forthright"],
+                ["Where do you get your creative inspiration?", "My fellow co-workers. Being around passionate people every day makes me strive for more."],
+                ["Who is most featured on your Ipod?", "Rise Against"],
+                ["What do you do when you are not inspiring clients?", "Spending quality time with my family."],
+                ["What is the most important lesson you learned along the way?", "You can do anything you put your mind to!"]
+
+
+            ],
+            "membership": "VM Family Member Since 2011",
+            "images": ["img/designers/tiffany_caporaso_profile1.jpg"]
+        }, {
+            "name": "Mark Esposito",
+            "title": "Senior Designer",
+            "details": [
+                ["What 3 words describe you?", "Giving, thoughtful, easy-going."],
+                ["Where do you get your creative inspiration?", "From celebrities, movies and going to classes."],
+                ["Who is most featured on your Ipod?", "Cher & Madonna."],
+                ["What is your signature move?", "Any short haircut and layering."],
+                ["What is the most important lesson you learned along the way?", "Share your talents... it makes my day to see the happiness in my client's eyes every day. Also, always be open to learn something new!"]
+           
+            ],
+            "membership": "VM Family Member Since 1983",
+            "images": ["img/designers/mark_esposito_profile.jpg"]
+        }, {
+            "name": "Melissa Mandela",
+            "title": "Salon Associate",
+            "details": [
+                ["What 3 words describe you?", "Outgoing, enthusiastic, considerate."],
+                ["What makes you different... why should a guest visit you?", "I'm not afraid to help people with change and I'm always willing and able to accept big challenges with a smile on my face. "],
+                ["Who is most featured on your Ipod?", "Wide variety from Carrie Underwood to Aerosmith to Christina Aguilera."],
+                ["Why hair?", "Because it's a huge part of anyone and everyone. I can help people feel beautiful, express themselves and allow their personality to shine through!"],
+                ["What is the highlight of your career so far?", "Winning 1st place in a Vogue inspired fashion show!"]
+            
+            ],
+            "membership": "VM Family Member Since 2012",
+            "images": ["img/designers/melissa_mandela_profile.jpg"]
+}, {
+            "name": "Michelle Hering",
+            "title": "Senior Designer",
+            "details": [
+                ["Where do you get your creative inspiration?", "Sometimes it can be a feeling, a movie, photo, collaboration between artists, clients, whoever can offer input. "],
+                ["What makes you different... why should a guest visit you?", "I am down to earth and make clients feel welcome and comfortable during our time of getting to know each other…no pressure."],
+                ["What is your personal style?", "Whatever looks good! I can go classic, trendy,and hippie chic."],
+                ["What do you do when you are not inspiring clients?", "Relaxing with my husband and 2 dogs."],
+                ["What is your weapon of choice?", "1 inch curling iron... don't leave home without it!"],
+                ["What is the most important lesson you learned along the way?", "Be honest. Under promise and over deliver."]
+           
+            ],
+            "membership": "VM Family Member Since 2000",
+            "images": ["img/designers/michelle_hering_profile.jpg"]
+},{ 
+            "name": "Carol Niven",
+            "title": "Designer",
+            "details": [
+                ["What 3 words describe you?", "Honest, Sharpwit, Fun."],
+                ["What makes you different... why should a guest visit you?", "I love to educate clients on how to style & use products in a simple and fun way. Also, because I make clients feel very comfortable when they're in my chair."],
+                ["What is your personal style?", "I see styles I like and then recreate them with my own personal touches."],
+                ["What is your signature move?", "Dry detailing a haircut"],
+                ["What is the most important lesson you learned along the way?", "Never forget where you came from!"]
+           
+            ],
+            "membership": "VM Family Member Since 2005",
+            "images": ["img/designers/carol_niven_profile.jpg"]
+},{
+            "name": "Sherrine Cosmo",
+            "title": "Salon Associate",
+            "details": [
+                ["What 3 words describe you?", "Sweet, fun and energetic."],
+                ["Who is most featured on your Ipod?", "John Mayer and Taylor Swift."],
+                ["What do you do when you are not inspiring clients?", "Coaching the rbc midget cheerleaders..go cougars!"],
+                ["What is your weapon of choice?", "1 inch barrel iron to make beautiful JLo curls."],
+                ["What is the most important lesson you learned along the way?", "Keep up with education and never give up!"]
+           
+            ],
+            "membership": "VM Family Member Since 2012",
+            "images": ["img/designers/sherinne_cosme_profile.jpg"]
+         },{
+               "name": "Lucy Sanchez",
+            "title": "Senior Designer",
+            "details": [
+                ["What 3 words describe you?", "Spiritual, Relational, Compassionate"],
+                ["Where do you get your creative inspiration?", "Culture, traveling, spreading the message."],
+                ["What is your signature move?", "Turning kinky hair straight!"],
+                ["What is your weapon of choice?", "Blowdryer & Flatiron."],
+                ["What is the most important lesson you learned along the way?", "Investing in the lives of others. Everyone is important no matter what background, ethnicity & personality."]
+                
+           
+            ],
+            "membership": "VM Family Member Since 2001",
+            "images": ["img/designers/lucy_sanchez_profile.jpg"] 
+         },{
+                "name": "Vinny Rivelli",
+            "title": "Designer",
+            "details": [
+                ["What makes you different... why should a guest visit you?", "A guest should come visit if they want the ultimate client journey."],
+                ["Who is your style icon?", "My grandfathers."],
+                ["What is your personal style?", "A blend between classic Americana and European modernism."],
+                ["What is your signature move?", "The consultation…everytime!"],
+                ["What is your personality most like?", "Your best friend because I will listen with all ears!"],
+                ["What is the highlight of your career so far?", "Being asked back to NY Fashion week."]
+           
+            ],
+            "membership": "VM Family Member Since 2002",
+            "images": ["img/designers/vinny_rivelli_profile.jpg"] 
+         },{
+                "name": "Cathy DeLecce",
+            "title": "Senior Designer",
+            "details": [
+                ["What makes you different... why should a guest visit you?", " I believe in natural looking low maintenance hair for the woman on the go!"],
+                ["Who is most featured on your Ipod?", "Rolling Stones, Patti Smith, U2."],
+                ["Why hair?", "I’m a Leo... love the Mane!"],
+                ["What is your personal style?", "60’s, 70’s, Boho"],
+                ["What is your signature move?", "Spiral Perm"],
+                ["What is the most important lesson you learned along the way?", "Give the client what they want... they’ll love you for it."]
+           
+            ],
+            "membership": "VM Family Member Since 1992",
+            "images": ["img/designers/cathy_delecce_profile.jpg"] 
+         },{
+                "name": "Jennifer Irizarry",
+            "title": "Associate Designer",
+            "details": [
+                ["What 3 words describe you?", "Happy, Energetic, Artistic"],
+                ["What makes you different... why should a guest visit you?", "I listen. I explain. I love to design and be creative."],
+                ["What is your personal style?", "Edgy, funky and classic."],
+                ["What is your signature move?", "Updo's"],
+                ["What do you do when you are not inspiring clients?", "Being a cool pregnant mom!"],
+                ["What is your personality most like?", "A peacock because at first glance it looks plain but when you get to know it the beautiful feathers are so colorful."]
+           
+            ],
+            "membership": "VM Family Member Since 2005",
+            "images": ["img/designers/jennifer_irizarry_profile.jpg"] 
+         },{
+                 "name": "Jackie Boland",
+            "title": "Senior Designer",
+            "details": [
+                ["What 3 words describe you?", "Caring + fun + creative = Jacktastic! ...oops too many!"],
+                ["Who is most featured on your Ipod?", "Everyone from Temptations to Sinatra to everything in between to Nickleback."],
+                ["Why hair?", "It runs through my veins…thanks to my mom!"],
+                ["What is your personal style?", "Audrey Hepburn & Sophia Loren..sexy and sophisticated."],
+                ["What is your signature move?", "Flipping, flicking,molding,sculpting until the masterpiece is complete."],
+                ["What is your Chairs of Change?", "St. Judes... all about the kids!"],
+                ["What is the most important lesson you learned along the way?", "Being true to myself & others."]
+           
+            ],
+            "membership": "VM Family Member Since 1994",
+            "images": ["img/designers/jackie_boland_profile.jpg"] 
+            },{
+                "name": "Tina Zaccagna",
+            "title": "Master Designer",
+            "details": [
+                ["What 3 words describe you?", "Optimistic, Leader, Artistic"],
+                ["What makes you different... why should a guest visit you?", "My level of haircolor experience and education, and the fact that I’m plugged in at all times with my clients…live in the moment!"],
+                ["Why hair?", "It's not just hair, it's everything!"],
+                ["Who is your style icon?", "Madonna..she wears a lot of Dolce & Gabanna and I really love that aesthetic."],
+                ["What is your signature move?", "Edward Scissorhands... it's flashy texturizing giving the hair more movement and a light airy texture."],
+                ["What is the highlight of your career so far?", "Receiving an equivalent to a PhD in haircoloring by becoming an American Board Certified Colorist."],
+                ["What is the most important lesson you learned along the way?", "It's as important to listen as it is to talk. Great communication is the holy grail to great service!"]
+           
+            ],
+            "membership": "VM Family Member Since 1995",
+            "images": ["img/designers/tina_zaccagna_profile.jpg"]
+         },{
+                "name": "Daina Fegueroa",
+            "title": "Associate Designer",
+            "details": [
+                ["What 3 words describe you?", "Creative, compassionate, sweet"],
+                ["What makes you different... why should a guest visit you?", "I see things through a different perspective. I tie in lifestyle, colors and make up to create a great experience."],
+                ["Why hair?", "love it... great color and style can change someone’s life!"],
+                ["What is your personal style?", "Anything Pin Up and Retro."],
+                ["What is your signature move?", "Avant garde hair color."],
+                ["What is the most important lesson you learned along the way?", "Never, never, never give up!"]
+                
+           
+            ],
+            "membership": "VM Family Member Since 2006",
+            "images": ["img/designers/daina_figueroa_profile.jpg"]
+            },{
+                "name": "Shannon Morrison",
+            "title": "Associate Designer",
+            "details": [
+                ["What 3 words describe you?", "Fun, optimistic, driven"],
+                ["Where do you get your creative inspiration?", "Everywhere... other creative people,nature,fashion, family, life, the past, magazines, the internet."],
+                ["What makes you different... why should a guest visit you?", "I listen very well and have a fresh outlook being a newbie in the industry!"],
+                ["What is your signature move?", "Loose soft curls."],
+                ["What is the highlight of your career so far?", "Learning something new every day during my internship here at VM."],
+                ["What is the most important lesson you learned along the way?", "Being positive and staying positive always results in a positive outlook!"]
+                
+           
+            ],
+            "membership": "VM Family Member Since 2009",
+            "images": ["img/designers/shannon_morrison_profile.jpg"]
+            },{
+                "name": "Lisa Marie Vendemia",
+            "title": "Senior Designer",
+            "details": [
+                ["What 3 words describe you?", "Hardworking, honest & loyal"],
+                ["What makes you different... why should a guest visit you?", "I'm always going to voice an honest opinion and guests are always going to experience beautiful and most importantly healthy hair."],
+                ["Who is your style icon?", "Calvin Klein"],
+                ["What is your personal style?", "Modern classic"],
+                ["What is your signature move?", "Soft, texturized cuts and natural highlighting techniques."],
+                ["What is the most important lesson you learned along the way?", "To always evolve."]
+                
+           
+            ],
+            "membership": "VM Family Member Since 2004",
+            "images": ["img/designers/lisa_marie_vendemia_profile.jpg"]
+            },{
+                "name": "Stefanie Savino",
+            "title": "Salon Associate",
+            "details": [
+                ["What 3 words describe you?", "Glamorous, Classic, Chic"],
+                ["What makes you different... why should a guest visit you?", "I can talk to anyone and I'm relatable. I make everyone feel extra special and listen to their needs and wants, giving them a great experience."],
+                ["Why hair?", "Hair is your best accessory. You can color it, cut it and change your look. There are always new trends and techniques."],
+                ["Who is your style icon?", "Marilyn Monroe, Jennifer Lopez, Kim Kardashian & Madonna"],
+                ["What is your signature move?", "Round brush spiral blow out."],
+                ["What is the highlight of your career so far?", "Doing makeup for couture bridal week in nyc."],
+                ["What is the most important lesson you learned along the way?", "Always be humble and never forget where you started."]
+                
+           
+            ],
+            "membership": "VM Family Member Since 2008",
+            "images": ["img/designers/stefanie_savino_profile.jpg"]
+            }]
+}

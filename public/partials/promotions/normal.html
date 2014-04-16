@@ -1,0 +1,6 @@
+ 
+<carousel class = "promos" interval="myInterval" >
+    <slide ng-repeat="slide in products" >
+        <img ng-src="{{slide.sliderImage}}" ng-click='changeProduct(slide)' style="margin:auto;">
+    </slide>
+</carousel>

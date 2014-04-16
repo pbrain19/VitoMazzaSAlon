@@ -1,0 +1,22 @@
+<div class="span12 repHead">
+    <img width='100%' src="img/products/facial/rep_head.png" alt="repecharge head">
+    <h3>{{productFilter.category| uppercase  }}</h3>
+</div>
+<div class="row-fluid products">
+    <div class="span9">
+        <div class="container-fluid productsContainer">
+            <div class="repproductGallery" ng-animate="{enter:'animatedIn rollIn',leave:'animatedOut rollOut'}"  ng-click="open(product)" ng-repeat="product in products| filter:productFilter ">
+                <h4 align="center">{{product.name}}</h4>
+                <img  ng-src="{{product.display}}" >
+            </div>
+        </div>
+    </div>
+    <div class="span3 repProductFilter"> 
+        <h4 align="center">CHOOSE YOUR SKIN TYPE</h4>
+
+        <div class="repProductButtons" ng-click="setFilter(cat.cat)" ng-repeat="cat in cats">{{cat.title}}</div>
+
+        <img class="goBack" src="img/go_back.png" ng-click="showCat()">
+    </div>
+</div>
+

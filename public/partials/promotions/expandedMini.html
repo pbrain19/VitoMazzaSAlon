@@ -1,0 +1,10 @@
+
+<img id="resetButton" src="img/close.png" class="pull-right resetApp" ng-click="resetApp()" > 
+<div class="span12 expandedMini">
+    <carousel  interval="myInterval" >
+        <slide ng-repeat="slide in products" >
+            <img ng-src="{{slide.bigSlider}}" ng-click='changeProduct(slide)' style="margin:auto;">
+        </slide>
+    </carousel>
+
+</div>

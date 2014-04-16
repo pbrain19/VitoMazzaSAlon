@@ -1,0 +1,762 @@
+/* This code is only meant for previewing your Reflow design. */
+
+@font-face
+{
+    font-family: avenir;
+    src: url('fonts/Avenir85Heavy.ttf')
+}
+
+@font-face{
+
+    font-family: jasminsssss;
+    src: url('fonts/upcjb.ttf')
+
+}
+@font-face
+{
+    font-family: futuraaa;
+    src: url('fonts/FuturaLT-Book.ttf')
+}
+@font-face
+{
+    font-family: minionpro;
+    src: url('fonts/MinionPro-Regular.otf')
+}
+@font-face
+{
+    font-family: arial;
+    src: url('fonts/arial.ttf')
+}
+@font-face
+{
+    font-family: helveticaa;
+    src: url('fonts/helveticaneue-roman.otf')
+}
+@font-face
+{
+    font-family: futuraMedium;
+    src: url('fonts/FuturaStd-Medium.otf')
+}
+@font-face
+{
+    font-family: futuraLite;
+    src: url('fonts/FuturaStd_Light.otf')
+}
+
+.cta{
+    position: absolute;
+    width: 210px;
+    bottom: 0;
+    z-index: 2000; 
+    opacity: 0;
+}
+
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    z-index: 10; 
+}
+
+h1,h2,h3,h4,h5{
+    font-family: futuraaa !important;
+}
+
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#box {
+    float: left;
+    height: 1920px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    overflow: hidden;
+    background-color: rgb(174, 172, 172);
+}
+
+#Products {
+    float: left;
+    position: relative;
+    height: 360px;
+    margin-left: 4.714938%;
+    margin-top: 38px;
+    clear: both;
+    width: 90.110906%;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(0, 0, 0) 0px 14px 38px -20px;
+}
+
+#designer {
+    float: left;
+    position: relative;
+    height: 360px;
+    margin-left: 4.714938%;
+    margin-top: 40px;
+    clear: both;
+    width: 44.059034%;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(0, 0, 0) 0px 14px 38px -20px;
+}
+
+#repechage {
+    position: relative;
+    float: left;
+    height: 360px;
+    margin-left: 4.714938%;
+    margin-top: 41px;
+    clear: both;
+    width: 90.110906%;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px; 
+    box-shadow: rgb(0, 0, 0) 0px 14px 38px -20px;
+}
+
+#Promotions {
+    float: left;
+    position: relative;
+    height: 360px;
+    margin-left: -95.283618%;
+    margin-top: 247px;
+    clear: none;
+    width: 90.110906%;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(0, 0, 0) 0px 14px 38px -20px;
+
+}
+
+#box1 {
+    float: left;
+    height: 180px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(174, 172, 172);
+}
+
+#events {
+    float: left;
+    position: relative;
+    height: 360px;
+    margin-left: 1.966844%;
+    margin-top: 40px;
+    clear: none;
+    width: 44.059034%;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(0, 0, 0) 0px 14px 38px -20px;
+}
+
+iframe{
+    border: none;
+    overflow:hidden !important; 
+    height: 512px;
+    width: 884px;
+}
+.dynaDiv{  
+    overflow:hidden !important; 
+}
+.carousel-control{
+    display: none;
+}
+
+.miniPromo img{ 
+
+}
+
+.normalProduct img{
+    height: 100%;
+    width: 100%; 
+    /* margin-left: 1px; */
+}
+.halfling{
+    width: 50% !important;
+    height: 363px !important;
+}
+
+.halfling:first-child{
+    margin-right: -7px;
+}
+.normalProduct h1{
+    padding-top: 50px;
+    position: absolute;
+    right: 12%;
+    color: white;
+    float: right;
+}
+
+img{
+    width: 100%;
+}
+
+.productCaterogies{
+    position: relative;
+
+    text-align: center;
+}
+.productCaterogies .span3{
+    padding: 20px 20px;
+    height: 260px; 
+    margin: 0px !important;
+    display: inline-block;
+}
+.productCaterogies .span3 img{
+    width: 51%;
+    height: 80%;
+
+    margin: 0px 0px 0px 25%;
+}
+.catContainer{
+    width: 16%;            
+    height: 239px;
+    margin: 2% 34px;
+    display: inline-block;
+    background-color: rgba(229, 242, 255, 0.33);
+    border: 1px solid rgb(233, 233,233);    
+    border-radius: 6px;
+    box-shadow: rgb(0, 0, 0) 0px 1px 2px 0px;
+
+}
+.catContainer>img{
+    width: 100px;
+
+}
+.catContainer h4{
+    font-family: futuraMedium;
+
+}
+
+.mButton{
+    float: left;
+    height: 55px;
+    clear: none;
+    width: 171.921875px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border: 1px solid rgba(181, 181, 181, 0.682353);
+    background-image: -webkit-linear-gradient(90deg,white 0%,rgb(209,209,209) 5%,rgb(240,240,240) 54%,rgb(224,224,224) 92%,white 100%);
+    margin: 10px 0px;
+    font-size: 1.1em;
+    text-align: center;
+    padding-top: 17px;
+    font-family: avenir;
+    color: rgba(104, 101, 101, 0.82);
+}
+
+
+.mButtonVideo{
+    display: inline-block;
+    height: 55px;
+    clear: none;
+    width: 137px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border: 1px solid rgba(181, 181, 181, 0.682353);
+    background-image: -webkit-linear-gradient(90deg,white 0%,rgb(209,209,209) 5%,rgb(240,240,240) 54%,rgb(224,224,224) 92%,white 100%);
+    margin: 10px 7px;
+    font-size: .9em;
+    text-align: center;
+    padding-top: 17px;
+    font-family: avenir;
+    color: rgba(104, 101, 101, 0.82);
+}
+
+
+
+
+.fButton{
+    display: block;
+    margin-top: 10px;
+    width: 107%;
+    height: 50px;
+    border: 1px solid rgb(141, 159, 159);
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.431373) 0px 2px 4px 0px;
+    font-size: 1.7em;
+    font-family: futuraLite;
+    background-color: rgba(229, 242, 255, 0.33);
+    padding: 16px 7px;
+    letter-spacing: 2px;
+} 
+.filterContainer{ 
+
+    padding: 0px 20px;
+
+}
+.MproductFilter{
+    padding: 1px;
+}
+.products{
+    height: 100% !important;
+
+}
+
+.products h2{
+    margin-left: 50px; 
+}
+.products > .span9{
+    height: 100% !important;
+
+    overflow: auto; 
+} 
+
+.productsContainer{
+    padding-top: 19px;
+    height: 818px;
+    overflow: auto; 
+}
+.MproductsContainer{
+    padding-top: 19px;
+    height: 810px;
+    overflow: auto; 
+}
+.productDetails{
+    padding-right: 162px;
+
+}
+.productDetails span{
+    font-size: 1.5em;
+    font-weight: 600;
+    display: block;
+    line-height: 25px;
+    margin-bottom: 32px;
+}
+
+.NproductGallery{
+    position: relative;
+    width: 40%; 
+
+    height: 304px;
+    margin: 20px 30px;
+    display: inline-block;
+
+    background-color: rgba(243, 243, 243, 0.56);  border: 1px solid rgb(233, 233,233);  border-radius: 6px;  box-shadow: rgb(0, 0, 0) 0px 1px 2px 0px;
+}
+.NproductGallery img{
+    width: 181px;
+    margin-left: 17%;
+}
+.NproductGallery h4{
+    margin: 18px 0px 0px 0px;
+    padding: 0px 25px;
+    letter-spacing: 0px;
+    height: 44px;
+    font-family: avenir !important;
+}
+
+
+.productGallery{
+    position: relative;
+    width: 40%; 
+
+    height: 304px;
+    margin: 20px 30px;
+    display: inline-block;
+
+    background-color: rgba(229, 242, 255, 0.33);  border: 1px solid rgb(233, 233,233);  border-radius: 6px;  box-shadow: rgb(0, 0, 0) 0px 1px 2px 0px;
+}
+.productGallery img{
+    width: 120px;
+    margin-left: 28%;
+}
+.productGallery h4{
+    margin: 18px 0px 0px 0px;
+    padding: 0px 25px;
+    letter-spacing: 0px;
+    height: 44px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.repproductGallery{
+    position: relative;
+    width: 40%; 
+
+    height: 342px;
+    margin: 20px 30px;
+    display: inline-block;
+    border: 1px solid rgb(233, 233,233);  border-radius: 6px;  box-shadow: rgb(0, 0, 0) 0px 1px 2px 0px;
+    background-color: white;
+    overflow: hidden;
+}
+.repproductGallery img{
+    width: 212px;
+    margin-left: 13%;
+}
+.repproductGallery h4{
+    margin: 18px 0px 0px 0px;
+    padding: 0px 25px;
+    letter-spacing: 0px;
+    height: 60px;
+    font-family: cursive !important;
+}
+.repCat{
+    padding: 0px !important;
+    position: relative;
+}
+
+.repCat>.span12{
+    margin: 0px !important;
+    width: 100% !important;
+    position: relative;
+}
+.repHead{
+    position: relative;
+    margin-bottom: 20px;
+}
+.repCat>.span12>h3, .repHead>h3{
+    position: absolute;
+    top: 33%;
+    font-size: 3.2em;
+    left: 20%;
+    z-index:  100;
+    color: white;
+}
+.repCat>.span12>img{
+    width: 100% !important;
+
+}
+.expandedPromos{
+    margin-left: 0px !important;
+}
+
+.nioxinCat{ 
+    padding-left: 7.5%;
+
+    width: 100%;
+}
+.nioxinCat img{
+    width: 42%;
+    border: 1px solid rgb(233, 233,233);    
+    border-radius: 6px;
+    box-shadow: rgb(0, 0, 0) 0px 1px 2px 0px;
+    margin: 30px 2%;
+    border: solid thin rgba(87, 82, 82, 0.33);
+    border-radius: 13px;
+}
+.miniProducts img{
+
+    margin: 0px !important;
+    width: 49% !important;
+    height: 151px !important;
+}
+.miniProducts img:first-child{
+
+    margin-right: -5px !important;
+}
+.miniHalfs img{
+    height: 152px;
+
+}
+
+.expandedMini img{
+    height: 1000px !important;
+
+}
+
+.headerM{
+    padding-top: 28px;
+}
+.headerM img{
+    margin: 0px auto;
+    width: 518px;
+    position: relative;
+    left: 27%;
+}
+
+#carouselDesigners{
+
+    width: 861px;
+
+
+    height: 1000px;
+    position:relative;
+
+}
+
+#carouselDesigners img{ 
+    width: 16%;
+}
+.mLogo{
+    width: 182px;
+
+    position: relative;
+    left: 4px;
+}
+.catHeader{
+    padding-top: 19px;
+}
+.catHeader h1{
+    position: relative;
+    left: 58px; 
+    top: 14px;
+}
+.mBackground{
+    background-image:url('backgrounds/mBackground.png');
+    background-size: 100% 99%;
+
+    height: 1001px;
+}
+.repButtons{
+    background: -webkit-linear-gradient(90deg,rgb(77,119,131)
+        0%,rgb(20,173,255) 3%,rgb(105,209,255) 89%,rgb(206,230,255)
+        100%);
+    border: 0.2px solid rgba(0, 64, 96, 0.258824);
+    border-radius: 6px;
+    box-shadow: rgb(0, 0, 0) 0px 1px 3px 0px;
+    height: 67px; 
+    width: 209px;
+
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    padding: 25px 0px;
+    margin: 10px 15px;
+    display: inline-block;
+}
+.repProductButtons{
+    background: -webkit-linear-gradient(90deg,rgb(77,119,131)
+        0%,rgb(20,173,255) 3%,rgb(105,209,255) 89%,rgb(206,230,255)
+        100%);
+    border: 0.2px solid rgba(0, 64, 96, 0.258824);
+    border-radius: 6px;
+    box-shadow: rgb(0, 0, 0) 0px 1px 3px 0px;
+    float: left;
+    height: 67px; 
+    width: 209px;
+
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    padding: 25px 0px;
+    margin: 10px 15px;
+}
+.superLine{
+    margin: 26px 0px 0px 60px;
+    color: black;
+    background-color: black;
+    height: 1px;
+}
+.spHeader{
+    position: relative;
+    left: 7px;
+    margin-bottom: 30px;
+}
+
+.specialClose{
+    padding-top: 11px;
+    width: 32px;
+}
+#resetButton{ 
+    position: absolute;
+    right: 11px;
+    width: 24px !important;
+    z-index: 100;
+    margin-top: 10px;
+}
+.goBack{
+    margin-left: 29px;
+    margin-top: 15px;
+    width: 161px;
+}
+.NgoBack{
+    margin-left: 29px;
+    margin-top: 15px;
+    width: 161px;
+    position: absolute;
+    bottom: 0px;
+}
+.nHeader{
+    width: 91%;
+    margin: 40px 0px;
+    position: relative;
+    left: 5%;
+} 
+.NproductFilter{
+    height: 800px;
+    position: relative;
+
+}
+.videoSelector{
+    position: relative;
+    display: table;
+    height: auto;
+    margin: 0px auto 48px auto;
+}
+
+.videoSelectorRep{
+    position: relative;
+    top: 60px;
+    display: block;
+    height: auto;
+    margin: 0px auto 48px auto;
+    text-align: center;
+}
+.repProductFilter{
+    margin: 0px !important;
+    height: 800px;
+}
+
+.repProductFilter h4{
+    padding-left: 12px;
+
+}
+.repBackground{
+    background-color: rgba(200, 237, 255, 1) !important;
+}
+.repBackground #resetButton{
+}
+.halfImage{
+    height: 360px;
+}
+
+#carousel{
+
+    width: 904%;
+
+
+
+}
+#carousel>div{
+    display: inline-block !important;
+    width: 320px;
+    float: left;
+}
+#carousel img{
+
+    display: inline-block;
+}
+
+.carousels::-webkit-scrollbar
+{
+    width: 12px;  /* for vertical scrollbars */
+    height: 12px; /* for horizontal scrollbars */
+}
+
+.carousels::-webkit-scrollbar-track
+{
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.carousels::-webkit-scrollbar-thumb
+{
+    border-radius: 20px;
+    background: rgba(3, 3, 3, 0.14);
+}
+.carousels{
+
+    overflow-x: auto;
+
+}
+
+.activeMoil{
+
+    animation:selectedMoil 5s;
+    -webkit-animation:selectedMoil 5s; /* Safari and Chrome */
+
+} 
+
+@keyframes selectedMoil
+{
+
+    100%{background:yellow !important;}
+}
+
+@-webkit-keyframes selectedMoil /* Safari and Chrome */
+{ 
+
+    100%{background:yellow !important;}
+}
+
+.designerHeader{
+    padding: 34px 32px;
+    font-family: jasminsssss;
+}
+.designerHeader p{
+    font-family: jasminsssss;
+    font-size: 86px;
+}
+
+p>span:first-child{
+
+    color: rgb(113,46,0);
+}
+p>span:nth-child(2){
+
+    color: rgb(90,29,1); 
+} 
+#desginerSearch{
+    width: 260px;
+    height: 48px;
+    border: solid thin rgb(90,29,1);
+}
+.repModal{
+
+    padding: 0px !important;
+}
+.repClose{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 31px;
+}
+
+video{
+    width: 100% !important;
+
+}
+#CTAFinger{
+    position: absolute;
+    top: -250px;
+    right: 0px;
+    z-index: 1000;
+    width: 700px;
+    transform: rotate(180deg);
+    -ms-transform: rotate(180deg); 
+    -webkit-transform: rotate(180deg); 
+}
+
+#repMainImg {
+}

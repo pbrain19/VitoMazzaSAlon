@@ -1,0 +1,28 @@
+ 
+
+
+
+<div class="modal-body repModal">
+   
+    <img src="img/close.png" class=" repClose" ng-click="cancel()" > 
+    <div class="span12"> 
+
+        
+        <img ng-src="{{item.head}}">
+
+    </div>
+    <div class="span12"> 
+        <video ng-show="{{item.video.length > 3}}" width="100%" controls autoplay>
+            <source ng-src="{{item.video}}" type="video/mp4"> 
+            Your browser does not support the video tag.
+        </video>
+
+    </div>
+    <div class="span12"> 
+        <img ng-src="{{item.detailImage}}">
+
+    </div>
+
+
+
+</div>

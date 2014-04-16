@@ -1,0 +1,496 @@
+{
+    "mOilCat": [
+        {"title": "CLARIFY", "img": "img/products/mOil/Clarify/ClarifyingShampoo/18_clarifyingshampoo-detail_4.png", "cat": "clarify"},
+        {"title": "TREATMENT", "img": "img/products/mOil/Treatment/treatmentoriginal/04_motreatment_3.png", "cat": "treatment"},
+        {"title": "HYDRATION", "img": "img/products/mOil/Hydration/HydratingConditioner/single_hydration_conditioner_detail_1.png", "cat": "hydration"},
+        {"title": "REPAIR", "img": "img/products/mOil/Repair/MoistureRepairShampoo/k_single_moisture_shampoo_spanish_b_detailed_web.png", "cat": "repair"},
+        {"title": "VOLUME", "img": "img/products/mOil/Volume/ExtraVolumeConditioner/single_volume_conditioner_detail.png", "cat": "volume"},
+        {"title": "CURL", "img": "img/products/mOil/Curl/IntenseCurlCream/14_intensecurlcream_1.png", "cat": "curl"},
+        {"title": "FINISH", "img": "img/products/mOil/Finish/GlimmerShine/15_glimmershine_1_1_2.png", "cat": "finish"},
+        {"title": "FRIZZ", "img": "img/products/mOil/Frizz/FrizzControl/06_frizzcontrol_1_1.png", "cat": "frizz"},
+        {"title": "BALANCE", "img": "img/products/mOil/Balance/DryScalpTreatment/10_dryscalptreatment_3.png", "cat": "balance"},
+        {"title": "PROTECT", "img": "img/products/mOil/Protect/HeatStylingProtection/heat_styling_productdetail2_1.png", "cat": "protect"},
+        {"title": "TOOLS", "img": "img/products/mOil/Tools/BoarBristleClassicBrush/paddlebrush_productdetail_300-600.png", "cat": "tools"}
+    ],
+    "nioxinCat": [
+        {"title": "THINNING HAIR", "img": "img/generic/nioxin/thinin.png", "head": "img/products/nioxin/thin.png", "cat": "kit"},
+        {"title": "SCALP RENEW", "img": "img/generic/nioxin/sclap.png", "head": "img/products/nioxin/scalp.png", "cat": "scalp"},
+        {"title": "INTENSIVE THERAPY", "img": "img/generic/nioxin/intse.png", "head": "img/products/nioxin/intensiv.png", "cat": "intensive"},
+        {"title": "STYLING", "img": "img/generic/nioxin/stylings.png", "head": "img/products/nioxin/styling.png", "cat": "styling"}
+    ],
+    "repChargeCat": [
+        {"title": "COMBINATION", "cat": "combination"},
+        {"title": "DRY", "cat": "dry"},
+        {"title": "OILY", "cat": "oily"},
+        {"title": "PROBLEM / ACNE", "cat": "acne"},
+        {"title": "SENSITIVE / REACTIVE", "cat": "reactive"},
+        {"title": "SUN-DAMAGED / MATURE", "cat": "mature"},
+        {"title": "FIRST SIGN OF AGING", "cat": "aging"}
+    ],
+    "mOilProducts": [
+        {
+            "name": "Clarifying Shampoo",
+            "overview": "Moroccanoil Clarifying Shampoo cleanses the hair and scalp thoroughly, while helping to restore moisture balance. Formulated with essential oils, including argan oil, lavender and jojoba, it is designed to clear hair of product buildup, chlorine and environmental impurities.",
+            "keypoints": ["Sulfate, phosphate and paraben-free", "Permanent color-safe", "Keratin-enriched"],
+            "howToUseText": "Apply a small amount to clean, towel-dried hair, from mid-length to ends. Blow-dry or let dry naturally. Moroccanoil® Treatment Light can be applied to dry hair to tame fly-aways or condition dry ends.",
+            "howToVideo": "img/products/mOil/Treatment/Mtreatment.mp4",
+            "img": "img/products/mOil/Clarify/ClarifyingShampoo/18_clarifyingshampoo-detail_4.png",
+            "category": "clarify"
+        }, {
+            "name": "Moroccanoil Treatment",
+            "overview": "Moroccanoil Clarifying Shampoo cleanses the hair and scalp thoroughly, while helping to restore moisture balance. Formulated with essential oils, including argan oil, lavender and jojoba, it is designed to clear hair of product buildup, chlorine and environmental impurities.",
+            "keypoints": ["Sulfate, phosphate and paraben-free", "Permanent color-safe", "Keratin-enriched"],
+            "howToUseText": "Wet hair adequately to activate a rich, luxurious lather from the highly concentrated formula. Rinse thoroughly until water runs clear. Repeat if needed. Use twice a month; or up to once or twice weekly if you use a lot of hair products, swim regularly or have hard water. Follow with your favorite Moroccanoil conditioner or mask.",
+            "howToVideo": "img/products/mOil/Treatment/Mtreatment.mp4",
+            "img": "img/products/mOil/Treatment/treatmentoriginal/04_motreatment_3.png",
+            "category": "treatment"
+        }, {
+            "name": "Moroccanoil Treatment Light",
+            "overview": "Moroccanoil® Treatment Light is specifically formulated for the delicate needs of ultra-fine and light-colored (including white) hair. Inspired by the original formula that pioneered the oil-infused hair care category, creating the worldwide buzz on argan oil. A versatile and multitasking product, it is an essential foundation for hairstyling that can be used as a conditioning, styling and finishing tool. It even speeds up drying time and helps restore and revive hair damaged from chemicals found in shampoos, color processes and perms, as well as environmental factors. Infused with antioxidant-rich argan oil, strengthening proteins and shine-boosting vitamins. A completely transformative treatment that leaves the hair healthy, shiny and more manageable.",
+            "keypoints": ["Detangles ", "Revitalizes hair", "Restores elasticity"],
+            "howToUseText": "Apply a small amount to clean, towel-dried hair, from mid-length to ends. Blow-dry or let dry naturally. Moroccanoil® Treatment Light can be applied to dry hair to tame fly-aways or condition dry ends.",
+            "howToVideo": "img/products/mOil/Treatment/Mtreatment.mp4",
+            "img": "img/products/mOil/Treatment/treatmentlight/05_motreatmentlight_1.png",
+            "category": "treatment"
+        }, {
+            "name": "Hydrating Shampoo",
+            "overview": "Moroccanoil® Hydrating Shampoo is a gentle cleansing formula that infuses dry strands with antioxidant-rich argan oil, Vitamins A and E and red algae—for hair that looks and feels healthier, with increased elasticity and vibrance. Gentle enough for daily use, it provides optimal hydration for both normal and color-treated hair.",
+            "keypoints": ["Color-safe ", " Sulfate, phosphate and paraben-free", "Nutrient-rich"],
+            "howToUseText": "Massage throughout wet hair and scalp, adding more water to activate a rich, luxurious lather from the highly concentrated formula. Rinse thoroughly until water runs clear. Repeat if needed, and follow with Moroccanoil Hydrating Conditioner.",
+            "howToVideo": "img/products/mOil/Hydration/HydratingShampoo/hydrationShampo.mp4",
+            "img": "img/products/mOil/Hydration/HydratingShampoo/k_single_hydrating_shampoo_spanish_b_detailed_web_3.png",
+            "category": "hydration"
+        }, {
+            "name": "Hydrating Conditioner",
+            "overview": "Moroccanoil® Hydrating Conditioner gently detangles hair, leaving it soft shiny and more manageable. Infused with replenishing nutrients including antioxidant-rich argan oil, Vitamins A and E and red algae for optimal hydration and conditioning. Gentle enough for daily use and for normal and color-treated hair.",
+            "keypoints": ["Sulfate, phosphate and paraben-free ", "Color-safe", "Nutrient-rich"],
+            "howToUseText": "After shampooing with Moroccanoil Hydrating Shampoo, gently squeeze excess water and apply from mid-length to ends. Leave in for 1–2 minutes and rinse well. Use regularly for best results.",
+            "howToVideo": "img/products/mOil/Hydration/HydratingShampoo/hydrationShampo.mp4",
+            "img": "img/products/mOil/Hydration/HydratingConditioner/single_hydration_conditioner_detail_1.png",
+            "category": "hydration"
+        }, {
+            "name": "Intense Hydrating Mask",
+            "overview": "Hair in need of extra conditioning can benefit from this 5-minute revival treatment. Moroccanoil® Intense Hydrating Mask is ideal for thick hair, the high-performance, argan oil's rich formula deeply hydrates and conditions while dramatically improving hair's texture, elasticity, shine and manageability.",
+            "keypoints": [],
+            "howToUseText": "Apply a generous amount to towel-dried hair and comb through to distribute the product evenly. Allow to absorb for 5–7 minutes. No heat is required. Rinse and style as usual. The hydrating masks can be used 1 or 2 times a week to maintain healthy looking hair. Here’s a hair tip for thick, coarse hair: Combine approximately 1 teaspoon of Moroccanoil® Treatment with the Intense Hydrating Mask for added shine and elasticity.",
+            "howToVideo": "img/products/mOil/Hydration/IntenseHydratingMask/hydrationmasks.mp4",
+            "img": "img/products/mOil/Hydration/IntenseHydratingMask/08_intensehydratingmask_french_1_2.png",
+            "category": "hydration"
+        }, {
+            "name": "Weightless Hydrating Mask",
+            "overview": "Restore and revive fine/limp or dry hair with Moroccanoil® Weightless Hydrating Mask. It is a rich, creamy but lightweight hair treatment formulated with Argan Oil which helps bring your locks back to life.",
+            "keypoints": [],
+            "howToUseText": "Apply a generous amount to towel-dried hair and comb through to distribute the product evenly. Allow to absorb for 5–7 minutes. No heat is required. Rinse and style as usual. The hydrating masks can be used 1 or 2 times a week to maintain healthy looking hair.",
+            "howToVideo": "img/products/mOil/Hydration/IntenseHydratingMask/hydrationmasks.mp4",
+            "img": "img/products/mOil/Hydration/WeightlessHydratingMask/09_weightlesshydratingmask_french_1_2.png",
+            "category": "hydration"
+        }, {
+            "name": "Hydrating Styling Cream",
+            "overview": "Moroccanoil® Treatment Light is specifically formulated for the delicate needs of ultra-fine and light-colored (including white) hair. Inspired by the original formula that pioneered the oil-infused hair care category, creating the worldwide buzz on argan oil. A versatile and multitasking product, it is an essential foundation for hairstyling that can be used as a conditioning, styling and finishing tool. It even speeds up drying time and helps restore and revive hair damaged from chemicals found in shampoos, color processes and perms, as well as environmental factors. Infused with antioxidant-rich argan oil, strengthening proteins and shine-boosting vitamins. A completely transformative treatment that leaves the hair healthy, shiny and more manageable.",
+            "keypoints": [],
+            "howToUseText": "Apply 1–2 pumps to damp hair and style as usual. The amount used will vary, depending on hair type. For coarser and more unmanageable hair, combine Hydrating Styling Cream with Moroccanoil® Treatment for extra control when blow-drying. Hydrating Styling Cream can also be applied to dry hair, from mid-length to ends, as a refresher, and may be reapplied as needed.",
+            "howToVideo": "img/products/mOil/Hydration/HydratingStylingCream/stylingcream.mp4",
+            "img": "img/products/mOil/Hydration/HydratingStylingCream/03_hydratingstylingcream_pt_1_2.png",
+            "category": "hydration"
+        }, {
+            "name": "Moisture Repair Conditioner",
+            "overview": "Moroccanoil® Moisture Repair Conditioner features a moisture-balancing formula for hair that has been weakened or damaged by color, chemical processing or heat styling. Gently detangling and highly reparative, it infuses hair with antioxidant-rich argan oil, reconstructive keratin and fatty acids. Hair is revived, healthier, stronger and more manageable inside and out.",
+            "keypoints": ["Color-safe", "Sulfate, phosphate and paraben-free", "Keratin-enriched"],
+            "howToUseText": "After shampooing with Moroccanoil Moisture Repair Shampoo, gently squeeze excess water and apply from mid-length to ends. Leave in for 1–2 minutes and rinse well. Use regularly for best results.",
+            "howToVideo": "img/products/mOil/Repair/repairShampooAndConditioner.mp4",
+            "img": "img/products/mOil/Repair/MoistureRepairConditioner/single_repair_conditioner_detail_1.png",
+            "category": "repair"
+        }, {
+            "name": "Moisture Repair  Shampoo",
+            "overview": "Moroccanoil® Moisture Repair Shampoo features a moisture-balancing formula, for hair that has been weakened or damaged by color, chemical processing or heat styling. Gently cleanses, infusing each strand with antioxidant-rich argan oil and highly reparative keratin, proteins and other nutrients.",
+            "keypoints": ["Color-safe", "Sulfate, phosphate and paraben-free", "Keratin-enriched"],
+            "howToUseText": "Massage throughout wet hair and scalp, adding more water to activate a rich, luxurious lather from the highly concentrated formula. Rinse thoroughly until water runs clear. Repeat if needed, and follow with Moroccanoil Moisture Repair Conditioner.",
+            "howToVideo": "img/products/mOil/Repair/repairShampooAndConditioner.mp4",
+            "img": "img/products/mOil/Repair/MoistureRepairShampoo/k_single_moisture_shampoo_spanish_b_detailed_web.png",
+            "category": "repair"
+        }, {
+            "name": "Restorative Hair Mask",
+            "overview": "Moroccanoil® Restorative Hair Mask is a 5-7 minute revitalizing treatment that quickly repairs hair that's weak, damaged or color-treated. Its high-performance formula is rich in argan oil and protein to fortify and restructure hair that's been damaged by chemical treatments or heat styling. It actually infuses protein back into the weakened hair shaft, so hair becomes stronger and more beautiful.",
+            "keypoints": [],
+            "howToUseText": "Apply a generous amount to towel-dried hair and comb through to distribute the product evenly. Allow product to absorb for 5–7 minutes. No heat is required. Rinse thoroughly. This mask is highly reparative to the internal structure of the hair and should be sealed in afterward with a conditioner. Use once a week and less frequently as hair’s health returns. Here’s a hair tip for thick, coarse hair: Combine approximately 1 teaspoon of Moroccanoil® Treatment for added shine and elasticity.",
+            "howToVideo": "img/products/Repair/restorativeHairMask.mp4",
+            "img": "img/products/mOil/Repair/RestorativeHairMask/07_restorativehairmask_1_1.png",
+            "category": "repair"
+        }, {
+            "name": "Extra Volume Shampoo",
+            "overview": "Moroccanoil Extra Volume Shampoo works weightlessly to give fine, limp hair a boost of natural-looking volume, while gently cleansing each strand. Infused with antioxidant-rich argan oil, revitalizing nutrients and a plant extract that naturally plumps up the cuticle.",
+            "keypoints": [],
+            "howToUseText": "Apply throughout wet hair and scalp, gently massaging to stimulate the shampoo’s volume-boosting properties. Add more water to activate a rich, luxurious lather from the highly concentrated formula. Rinse thoroughly until water runs clear. Repeat if needed, and follow with Moroccanoil Extra Volume Conditioner",
+            "howToVideo": "img/products/mOil/Volume/VolumeShampooAndConditioner.mp4",
+            "img": "img/products/mOil/Volume/ExtraVolumeShampoo/k_single_volume_shampoo_spanish_b_detailed_web.png",
+            "category": "volume"
+        }, {
+            "name": "Extra Volume Conditioner",
+            "overview": "Extra Volume Conditioner contains antioxidant argan oil and nutrients to cleanse, detangle and bring back body to hair. It beautifies hair with shine, manageability and movement, while making it easier to style. The formula is free of sulfates, phosphates and parabens, so it's safer for the environment and won’t dry, fade or strip hair of color.",
+            "keypoints": [],
+            "howToUseText": "Gently squeeze excess water from hair and apply a small amount of the highly concentrated conditioner from roots to ends. Leave in for 1–2 minutes. Rinse well.",
+            "howToVideo": "img/products/mOil/Volume/VolumeShampooAndConditioner.mp4",
+            "img": "img/products/mOil/Volume/ExtraVolumeConditioner/single_volume_conditioner_detail.png",
+            "category": "volume"
+        }, {
+            "name": "Volumizing Mousse",
+            "overview": "Moroccanoil Volumizing Mousse is a styling mousse that builds body and provides flexible hold. Its weightless formula creates natural styles with lift and movement, without leaving residue",
+            "keypoints": ["Full Body", "Flexible Hold", "Weightless, non-sticky residue"],
+            "howToUseText": "Shake can well. Invert can and apply a palm-sized amount of mousse on towel-dried hair, combing fingers through to distribute product evenly. Blow-dry with a round brush starting at the roots",
+            "howToVideo": "",
+            "img": "img/products/mOil/Volume/VolumizingMousse/21_french_volumizingmousse_detail_1_1_1.png",
+            "category": "volume"
+        }, {
+            "name": "Root Boost",
+            "overview": "For the ultimate full-bodied hair, Root Boost is designed to deliver lift and movement by prepping the roots with a strong texturized foundation prior to styling with heat. High-performance, nourishing formula instantly amplifies volume at the roots and thickens each strand to provide texture and shape, allowing for volume that never falls flat.",
+            "keypoints": ["Enriched with argan oil to nourish hair and scalp", "Fortifies and thickens at the roo", "Long-lasting voluminous texture with natural-looking finish", "Helps control static"],
+            "howToUseText": "Shake well. Spray generously on towel-dried hair at the roots. For a full-bodied effect, apply Volumizing Mousse throughout mid-lengths for enhanced body and movement. Blow-dry in sections, lifting hair away from the scalp.",
+            "howToVideo": "img/products/mOil/Volume/RootBoost/RootBoost.mp4",
+            "img": "img/products/mOil/Volume/RootBoost/rootboost_detail.png",
+            "category": "volume"
+        }, {
+            "name": "Intense Curl Cream",
+            "overview": "Natural curls and waves need to be smooth and defined to look their best. Moroccanoil® Intense Curl Cream is an ideal leave-in conditioner rich in argan oil and vitamins. It defines, moisturizes, nourishes and fights frizz without leaving a sticky residue. Curls look shiny, shapely, beautifully refreshed and touchably soft",
+            "keypoints": [],
+            "howToUseText": "Rub a small amount between palms. Work through hair and style as usual or let dry naturally. To get the curls you want, gently work into dry hair throughout the day to refresh curls and control frizz. Mix a few drops of Moroccanoil Treatment with a pump or two of Intense Curl Cream for magnificent curls that are bouncy, defined and glamorous",
+            "howToVideo": "img/products/mOil/Curl/IntenseCurlCream.mp4",
+            "img": "img/products/mOil/Curl/IntenseCurlCream/14_intensecurlcream_1.png",
+            "category": "curl"
+        }, {
+            "name": "Curl Defining Cream ",
+            "overview": "Wavy and curly hair can easily lose its definition - Moroccanoil Curl Defining Cream brings it back. Advanced heat-activated technology provides intense conditioning and activates a curl memory factor to keep hair bouncy and control frizz for hours. Argan oil and protein condition, detangle and tame curls, so hair remains smooth and frizz-free with great movement",
+            "keypoints": [],
+            "howToUseText": "Apply a generous amount to clean, towel-dried hair. To activate and enhance curls, diffuse hair. For a more relaxed curl, let hair dry naturally.Curl Defining Cream can also be used to refresh curls and reduce frizz throughout the day. Apply 1 pump from mid-length to ends and reapply as needed. Additional heat from a diffuser can be used to reactivate the curl memory. Heat-styling tools may also be used to define and style curls",
+            "howToVideo": "img/products/mOil/Curl/CurlDefiningCream.mp4",
+            "img": "img/products/mOil/Curl/CurlDefiningCream/13_curldefiningcream_1_1.png",
+            "category": "curl"
+        }, {
+            "name": "Curl Control Mousse",
+            "overview": "Curly and tightly spiraled hair needs control without the crunch. Moroccanoil® Curl Control Mousse's lightweight yet powerful formula is enriched with argan oil to tame, define and hold curls naturally for hours while sealing in moisture and keeping out frizz. Curls and ringlets are left looking soft, smooth and natural in any weather",
+            "keypoints": [],
+            "howToUseText": "Apply a generous amount to clean, towel-dried hair. For best results, gently scrunch hair with hands from ends, lifting hair up toward the roots, and allow to dry naturally. Curl Control Mousse can be reapplied to dry hair throughout the day if desired. Heat-styling tools may also be used to define and style curls",
+            "howToVideo": "img/products/mOil/Curl/CurlControlMousse.mp4",
+            "img": "img/products/mOil/Curl/CurlControlMousse/12_curlcontrolmousse_1_1.png",
+            "category": "curl"
+        }, {
+            "name": "Luminous Hairspray Medium",
+            "overview": "Moroccanoil Luminous Hairspray in Medium is formulated with a combination of highly sophisticated ingredients infused with argan oil. This lightweight and workable hairspray offers a long-lasting, flexible hold, without leaving a sticky residue. It is ideal for creating and maintaining soft, natural styles. It brushes out easily without weighing the hair down, and provides a reflective shield of shine that fights frizz and humidity. Medium formula is ideal for everyday styles, easy updos (including ballerina buns and ponytails) and blowouts.",
+            "keypoints": [" Flexible hold, brushes out easily", "Adds shine", "Weather-safe"],
+            "howToUseText": "Hold can 10 inches (25 centimeters) from hair and spray. Here’s a hair tip: For extra volume, spray on roots before styling.",
+            "howToVideo": "img/products/mOil/Finish/LuminousHairSpray.mp4",
+            "img": "img/products/mOil/Finish/LuminousHairsprayMedium/16_medium-hairspray_2.png",
+            "category": "finish"
+        }, {
+            "name": "Luminous Hairspray Strong",
+            "overview": "Moroccanoil® Luminous Hairspray in Strong is formulated with a combination of highly sophisticated ingredients infused with argan oil. This lightweight and workable hairspray offers a long-lasting, flexible strong hold, without leaving a sticky residue. It is ideal for creating and maintaining soft, natural styles. It brushes out easily without weighing the hair down, and provides a reflective shield of shine that fights frizz and humidity.Strong formula is ideal for more demanding hairstyles for events such as weddings, high-wattage shoots and red carpet updos.",
+            "keypoints": ["Flexible strong hold, brushes out easily", "Weather-safe"],
+            "howToUseText": "Hold can 10 inches (25 centimeters) from hair and spray. Here’s a hair tip: For extra volume, spray on roots before styling.",
+            "howToVideo": "img/products/mOil/Finish/LuminousHairSpray.mp4",
+            "img": "img/products/mOil/Finish/LuminousHairsprayStrong/17_strong-hairspray_2_2.png",
+            "category": "finish"
+        }, {
+            "name": "Glimmer Shine",
+            "overview": "Moroccanoil Glimmer Shine is a finishing spray that attracts and reflects light to give hair a gorgeous gloss. Infused with argan oil, vitamins and antioxidants, it creates an invisible veil of luminous shine and protects hair against environmental elements such as sun, salt water and chlorine. Glimmer Shine can also be used to enhance color and highlights, adding the perfect touch to any style.",
+            "keypoints": [],
+            "howToUseText": "Spray 10 inches (25 centimeters) from dry hair. Allow to dry for 3–4 minutes before touching to let the tiny pearls of oil dry, sealing in beautiful, unsurpassable shine. For best results, use as a finish after styling. Here’s a hair tip: Dusting your hairbrush with Moroccanoil® Glimmer Shine will also help prevent static and frizz. Repeated applications will enhance the effectiveness of Glimmer Shine, especially for thick or coarse hair.",
+            "howToVideo": "img/products/mOil/Finish/GlimmerShine.mp4",
+            "img": "img/products/mOil/Finish/GlimmerShine/15_glimmershine_1_1_2.png",
+            "category": "finish"
+        }, {
+            "name": "Frizz Control",
+            "overview": "Moroccanoil Frizz Control is a must for all hair prone to frizz, whether it's natural, dry, curly or straight. It eliminates frizz and controls static in any weather. Its weather-resistant properties weightlessly safeguard hair whether you have winter hair (in excessively dry conditions) or summer hair (in excessively humid conditions) keeping it smooth, calm and manageable.",
+            "keypoints": [],
+            "howToUseText": "For thick, coarse hair, apply a small amount of Moroccanoil® Treatment to clean, towel-dried hair. Blow-dry to remove excess moisture. Spray 3–5 pumps of Frizz Control 10 inches (25 centimeters) from damp hair and comb through. Style as usual or let dry naturally. Here’s a hair tip: For added shine and protection, apply a few drops of Moroccanoil Treatment.",
+            "howToVideo": "img/products/mOil/Frizz/FrizzControl.mp4",
+            "img": "img/products/mOil/Frizz/FrizzControl/06_frizzcontrol_1_1.png",
+            "category": "frizz"
+        }, {
+            "name": "Oily Scalp Treatment",
+            "overview": "Moroccanoil has developed a professional regulating treatment to control the scalp and revive hair. Moroccanoil Oily Scalp Treatment is a concentrated formula of antioxidant-rich argan oil and essential ginger oil. It helps to correct imbalances and soothe inflammation of the hair follicle, which manages oil production. Roots are lifted and hair takes on more body and life. Used pre-shampoo, it soothes the scalp and keeps it from getting too oily or dry.",
+            "keypoints": [],
+            "howToUseText": "Separate hair into four equal sections. Apply 3–6 drops of treatment onto scalp per section. Smooth into scalp with fingertips. Let penetrate for 5–10 minutes. Comb through. Rinse. Follow with the Moroccanoil® shampoo and conditioner that’s right for your hair needs. Use weekly to start and less frequently as condition improves.",
+            "howToVideo": "img/products/mOil/Balance/OilyScalpTreatment.mp4",
+            "img": "img/products/mOil/Balance/OilyScalpTreatment/11_oilyscalptreatment_3.png",
+            "category": "balance"
+        }, {
+            "name": "Dry Scalp Treatment",
+            "overview": "Moroccanoil Dry Scalp Treatment works to restore scalp imbalances, relieve irritation and revitalize hair. This lightweight but concentrated formula with antioxidant-rich argan oil, lavender and geranium oils penetrates deeply to soothe the scalp. Irritation, dryness and itch are instantly relieved. Flakiness is reduced, circulation improves and hair reaps the benefits of vitality and shine.",
+            "keypoints": [],
+            "howToUseText": "Separate hair into four equal sections. Apply 3–6 drops of treatment onto scalp per section. Massage into scalp with fingertips. Let penetrate for 5–10 minutes. Comb through. Rinse. Follow with the Moroccanoil® shampoo and conditioner that’s right for your hair needs. Use weekly to start and less frequently as condition improves.Dry Scalp Treatment is ideal for scalps that are sensitive to color. It is highly recommended to use before any color service to protect the scalp and eliminate itchiness. It also provides soothing relief to tight scalps when hair extensions are being removed.",
+            "howToVideo": "img/products/mOil/Balance/DryScalpTreatment.mp4",
+            "img": "img/products/mOil/Balance/DryScalpTreatment/10_dryscalptreatment_3.png",
+            "category": "balance"
+        }, {
+            "name": "Heat Styling Protection",
+            "overview": "Moroccanoil Heat Styling Protection effectively prevents breakage and split ends. The result: healthy, naturally beautiful hair that withstands extreme heat, with a style that lasts throughout the day.",
+            "keypoints": ["Optimal heat protection", "Long-lasting soft hold", "Leaves a glossy finish", "Helps protect color fading"],
+            "howToUseText": "Divide dry hair into small sections. spray 1 pump on each piece 8-10 inches away from the head prior to using any hot styling tools. styling tip: Before blow drying, first apply moroccanoil treatment and then spray heat styling Protection on towel-dried hair for added protection and shine.",
+            "howToVideo": "img/products/mOil/Protect/HeatStylingProtection.mp4",
+            "img": "img/products/mOil/Protect/HeatStylingProtection/heat_styling_productdetail2_1.png",
+            "category": "protect"
+        }, {
+            "name": "Boar Bristle Teaser Brush",
+            "overview": "Create voluminous styles with this handmade, premium-grade teasing brush. The 100% natural boar bristles are gentle on hair, minimizing breakage while allowing the backcombing of hair without damaging the strands. Seamless, hand-crafted construction allows for easy sectioning, separating and parting.",
+            "keypoints": ["Ash wood handle is heat-resistant and lightweight", "Stimulates and massages the scalp", "Spreads hair’s natural oils down the shaft"],
+            "howToUseText": "To give a boost of volume for a variety of styles, backcomb the hair by working the brush through with long and even strokes. Start at mid-shaft and run brush through hair toward scalp, before pulling the brush back out. Continue with short strokes until reaching desired volume",
+            "howToVideo": "img/products/mOil/Tools/BoarBristleClassiAndTeasing Brushes.mp4",
+            "img": "img/products/mOil/Tools/BoarBristleTeaserBrush/teadingbrush_productdetail_300-600.png",
+            "category": "tools"
+        }, {
+            "name": "Boar Bristle Classic Brush",
+            "overview": "Create smooth, sleek styles with the Boar Bristle Classic Brush. 100% natural bristles provide the ultimate experience in hair care, delivering nourishment by stimulating and massaging the scalp and spreading hair’s natural oils down the shaft. With repeated use, hair becomes softer, shinier and more manageable.",
+            "keypoints": ["Lightweight, heat-resistant ash wood handle", " Hand-crafted, seamless construction", "Creates shine"],
+            "howToUseText": "Starting at the roots, gently work the brush throughout the length of hair using easy strokes. Repeat until reaching desired smoothness.",
+            "howToVideo": "img/products/mOil/Tools/BoarBristleClassiAndTeasing Brushes.mp4",
+            "img": "img/products/mOil/Tools/BoarBristleClassicBrush/paddlebrush_productdetail_300-600.png",
+            "category": "tools"
+        }
+    ],
+    "repProducts": [
+        {
+            "name": "Biolight",
+            "detailImage": "img/products/facial/Biolight/biobody.png",
+            "head": "img/products/facial/Biolight/biohead.png",
+            "mask": "img/products/facial/Biolight/BiolightMiracleFacial.jpg",
+            "video": "img/products/facial/Biolight/20130801_Your_Post_Summer_Sun_Body_Care_Skin_Solution.mp4",
+            "category": "mature",
+            "display": "img/products/facial/Biolight/Biolightimg.jpg"
+        },
+        {
+            "name": "Cell Renewal",
+            "detailImage": "img/products/facial/CellRenewal/cellbody.png",
+            "head": "img/products/facial/CellRenewal/cellhead.png",
+            "mask": "img/products/facial/CellRenewal/Layer_4.jpg",
+            "video": "img/products/facial/CellRenewal/diy.mp4",
+            "category": "aging",
+            "display": "img/products/facial/CellRenewal/Cell-Renewalimg.png"
+        },
+        {
+            "name": "Hydra 4",
+            "detailImage": "img/products/facial/Hydra4/hydrabody.png",
+            "head": "img/products/facial/Hydra4/hydrahead.png",
+            "mask": "img/products/facial/Hydra4/Hydra4Facial.jpg",
+            "video": "img/products/facial/Hydra4/20130618_Quick_Relief_For_Rosacea_Sensitive_Skin_Flare_Up.mp4",
+            "category": "reactive",
+            "display": "img/products/facial/Hydra4/Hydra-4img.png"
+        },
+        {
+            "name": "Hydra Dew",
+            "detailImage": "img/products/facial/HydraDew/dewbody.png",
+            "head": "img/products/facial/HydraDew/dewhead.png",
+            "mask": "img/products/facial/HydraDew/hydramask.jpg",
+            "video": "img/products/facial/HydraDew/20130205_Skin_Highlighter_and_Illuminator_Tip.mp4",
+            "category": "dry",
+            "display": "img/products/facial/HydraDew/Hydra-Dewimg.png"
+        },
+        {
+            "name": "Hydra Medic",
+            "detailImage": "img/products/facial/HydraMedic/medicbody.png",
+            "head": "img/products/facial/HydraMedic/medichead.png",
+            "mask": "img/products/facial/HydraMedic/HydraMedicFacial.jpg",
+            "video": "img/products/facial/HydraMedic/20130605_How_To_Get_Rid_Of_An_Emergency_Pimple_Before_Big_Event.mp4",
+            "category": "acne",
+            "display": "img/products/facial/HydraMedic/Hydra-Medicimg.png"
+        },
+        {
+            "name": "Hydra Refine",
+            "detailImage": "img/products/facial/HydraRefine/refinebody.png",
+            "head": "img/products/facial/HydraRefine/refinehead.png",
+            "mask": "img/products/facial/HydraRefine/HydraRefineFacial.jpg",
+            "category": "oily",
+            "display": "img/products/facial/HydraRefine/Hydra-Refineimg.png"
+        },
+        {
+            "name": "Opti-Firm",
+            "detailImage": "img/products/facial/OptiFirm/optibody.png",
+            "head": "img/products/facial/OptiFirm/optihead.png",
+            "mask": "img/products/facial/OptiFirm/3_01190012.JPG",
+            "video": "img/products/facial/OptiFirm/20130612_How_to_Correctly_Apply_An_Eye_Cream.mp4",
+            "category": "mature",
+            "display": "img/products/facial/OptiFirm/OptiFirmimg.png"
+        },
+        {
+            "name": "T-Zone Balance",
+            "detailImage": "img/products/facial/TZone/tzonebody.png",
+            "head": "img/products/facial/TZone/tzonehead.png",
+            "mask": "img/products/facial/TZone/ClassicEuro.jpg",
+            "category": "combination",
+            "display": "img/products/facial/TZone/tzonebody.jpg"
+        }
+        ,
+        {
+            "name": "Vita Cura",
+            "detailImage": "img/products/facial/VitaCura/vitabody.png",
+            "head": "img/products/facial/VitaCura/vitahead.png",
+            "mask": "img/products/facial/VitaCura/VitaCuraFacial.JPG",
+            "video": "img/products/facial/VitaCura/20130312_How_to_Make_Your_Skin_Look_Smoother_and_Tighter_Instantly.mp4",
+            "category": "mature",
+            "display": "img/products/facial/VitaCura/Vita-Curaimg.png"
+        }
+
+    ],
+    "nioxinProducts": [
+        {
+            "name": "System 1",
+            "headline": "AMPLIFIES HAIR TEXTURE WHILE PROTECTING AGAINST BREAKAGE",
+            "body": "System 1 is specially designed for normal to thin-looking, fine, natural hair. It amplifies hair texture while refreshing the scalp and delivering a healthy shine.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["BioAMP", "With cystine amino acids and lightweight conditioning and treatment ingredients. Helps provide thicker-looking hair by increasing the fullness of each hair strand, reducing hair loss by strengthening against damage and breakage. "],
+                ["Transactive Delivery System", "With antioxidants, botanicals, vitamins, and purifying agents. Helps clean away follicle-clogging sebum and environmental residues from the scalp skin, giving a clean and refreshed feeling. "],
+                ["Avtic-Renewal", "With white tea extract, peppermint oil and cleansing agents. Provides a refreshed scalp environment and healthy shine to natural hair."]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/Activ_Renewal.mp4", "name": "Active Renewal"},
+                {"url": "img/products/nioxin/kits/BioAMP.mp4", "name": "BioAMP"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"},
+                {"url": "img/products/nioxin/kits/Transactive_Delivery_System.mp4", "name": "Transactive Delivery"}
+            ],
+            "images": ["img/products/nioxin/kits/System_One/box-1.png", "img/products/nioxin/kits/System_One/system1.png"],
+            "category": "kit"
+        }, {
+            "name": "System 2",
+            "headline": "DELIVERS DENSER-LOOKING HAIR WHILE STRENGTHENING AGAINST DAMAGE",
+            "body": "System 2 is specially designed for noticeably thinning, fine, natural hair. It delivers denser-looking hair and a healthy shine while protecting the scalp.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["BioAMP", "With cystine amino acids and lightweight conditioning and treatment ingredients. Helps provide thicker-looking hair by increasing the fullness of each hair strand, reducing hair loss by strengthening against damage and breakage. "],
+                ["Avtic-Renewal", "With white tea extract, peppermint oil and cleansing agents. Provides a refreshed scalp environment and healthy shine to natural hair."]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/BioAMP.mp4", "name": "BioAMP"},
+                {"url": "img/products/nioxin/kits/Activ_Renewal.mp4", "name": "Active Renewal"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"}
+            ],
+            "images": ["img/products/nioxin/kits/System_Two/box-2.png", "img/products/nioxin/kits/System_Two/system2.png"],
+            "category": "kit"
+        }, {
+            "name": "System 3",
+            "headline": "AMPLIFIES HAIR TEXTURE AND RESTORES MOISTURE BALANCE",
+            "body": "System 3 is specially designed for normal to thin-looking, fine, chemically treated hair. It amplifies hair texture while refreshing the scalp and providing moisture balance to colored hair.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["BioAMP", "With cystine amino acids and lightweight conditioning and treatment ingredients. Helps provide thicker-looking hair by increasing the fullness of each hair strand, reducing hair loss by strengthening against damage and breakage. "],
+                ["Glyco-Shield", "With white tea extract, humectants, peppermint oil, and protective conditioning agents. Dual shield technology helps provide protection and moisture balance to color-treated hair, and leaves the scalp feeling rejuvenated and refreshed. "],
+                ["Transactive Delivery System", "With antioxidants, botanicals, vitamins, and purifying agents. Helps clean away follicle-clogging sebum and environmental residues from the scalp skin, giving a clean and refreshed feeling. "]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/BioAMP.mp4", "name": "BioAMP"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"},
+                {"url": "img/products/nioxin/kits/Transactive_Delivery_System.mp4", "name": "Transactive Delivery"},
+                {"url": "img/products/nioxin/kits/Glyco_Shield.mp4", "name": "Glyco Shield"}
+            ],
+            "images": ["img/products/nioxin/kits/System_Three/box-3.png", "img/products/nioxin/kits/System_Three/system3.png"],
+            "category": "kit"
+        }, {
+            "name": "System 4",
+            "headline": "DELIVERS DENSER-LOOKING HAIR AND RESTORES MOISTURE BALANCE",
+            "body": "System 4 is specially designed for noticeably thinning, fine, chemically-treated hair. It delivers denser-looking hair while protecting the scalp and providing moisture balance to colored hair.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["BioAMP", "With cystine amino acids and lightweight conditioning and treatment ingredients. Helps provide thicker-looking hair by increasing the fullness of each hair strand, reducing hair loss by strengthening against damage and breakage. "],
+                ["Glyco-Shield", "With white tea extract, humectants, peppermint oil, and protective conditioning agents. Dual shield technology helps provide protection and moisture balance to color-treated hair, and leaves the scalp feeling rejuvenated and refreshed. "]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/BioAMP.mp4", "name": "BioAMP"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"},
+                {"url": "img/products/nioxin/kits/Glyco_Shield.mp4", "name": "Glyco Shield"}
+            ],
+            "images": ["img/products/nioxin/kits/System_Four/box-4.png", "img/products/nioxin/kits/System_Four/system4.png"],
+            "category": "kit"
+        }, {
+            "name": "System 5",
+            "headline": "FOR FULLER-LOOKING, MOISTURIZED HAIR",
+            "body": "System 5 is specially designed for normal to thin-looking, medium to coarse, natural or chemically-treated hair. It delivers smoothing control to hair while refreshing the scalp and restoring moisture balance.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["Glyco-Shield", "With white tea extract, humectants, peppermint oil, and protective conditioning agents. Dual shield technology helps provide protection and moisture balance to color-treated hair, and leaves the scalp feeling rejuvenated and refreshed. "],
+                ["Transactive Delivery System", "With antioxidants, botanicals, vitamins, and purifying agents. Helps clean away follicle-clogging sebum and environmental residues from the scalp skin, giving a clean and refreshed feeling. "],
+                ["Smoothplex", "With silk amino acids, kukui nut oil, and protective conditioning agents. Helps provide moisture balance and smoothing control, reducing hair loss by strengthening against damage and breakage."]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/Smoothplex.mp4", "name": "Smoothplex4"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"},
+                {"url": "img/products/nioxin/kits/Glyco_Shield.mp4", "name": "Glyco Shield"},
+                {"url": "img/products/nioxin/kits/Transactive_Delivery_System.mp4", "name": "Transactive Delivery"}
+            ],
+            "images": ["img/products/nioxin/kits/System_Five/box-5.png", "img/products/nioxin/kits/System_Five/system5.png"],
+            "category": "kit"
+        }, {
+            "name": "System 6",
+            "headline": "DELIVERS SMOOTHER, DENSER-LOOKING HAIR",
+            "body": "System 6 is specially designed for noticeably thinning, medium to coarse, natural or chemically-treated hair. It delivers smoothing control to hair while protecting the scalp and restoring moisture balance.",
+            "details": [
+                ["Cleanser", "Helps to remove follicle-clogging sebum, fatty acids and environmental residues from the scalp skin and hair. Cleanses to provide thicker-looking hair. "],
+                ["Scalp Therapy", "A lightweight conditioner that helps provide hair resilience and control moisture balance. "],
+                ["Scalp Treatment", "Contains antioxidants and botanicals that help to provide a refreshed scalp environment. "],
+                ["Glyco-Shield", "With white tea extract, humectants, peppermint oil, and protective conditioning agents. Dual shield technology helps provide protection and moisture balance to color-treated hair, and leaves the scalp feeling rejuvenated and refreshed. "],
+                ["Smoothplex", "With silk amino acids, kukui nut oil, and protective conditioning agents. Helps provide moisture balance and smoothing control, reducing hair loss by strengthening against damage and breakage."]
+            ],
+            "videos": [
+                {"url": "img/products/nioxin/kits/Smoothplex.mp4", "name": "Smoothplex4"},
+                {"url": "img/products/nioxin/kits/Cleanser.mp4", "name": "Cleanser"},
+                {"url": "img/products/nioxin/kits/Scalp_Therapy.mp4", "name": "Scalp Therapy"},
+                {"url": "img/products/nioxin/kits/Scalp_Treatment.mp4", "name": "Scalp Treatment"},
+                {"url": "img/products/nioxin/kits/Glyco_Shield.mp4", "name": "Glyco Shield"}
+            ],
+            "images": ["img/products/nioxin/kits/System_Six/box-6.png", "img/products/nioxin/kits/System_Six/system6.png"],
+            "category": "kit"
+        }, {
+            "name": "DIAMAX",
+            "headline": "DELIVERS SMOOTHER, DENSER-LOOKING HAIR",
+            "howWorks": "NIOXIN Diamax, with a fusion of Niacinamide, Panthenol and Caffeine, is proven to:",
+            "steps": ["Increase the diameter of each existing hair strand.", "Penetrate hair and make it fuller and more manageable.", "Strenghten hair resilience against breakage."],
+            "details": [
+                ["PRODUCT GUIDE", "DiamaxTM is a leave-on treatment that can be used with the Nioxin 3-part systems for thicker, denser-looking hair."]
+            ],
+            "videos": ["img/products/nioxin/intensive/diamax.mp4"],
+            "images": ["img/products/nioxin/intensive/diamax_450x430.png"],
+            "category": "intensive"
+
+        }, {
+            "name": "DENSITY RESTORATION",
+            "headline": "RESTORES A DENSE, VIBRANT, HEALTHY APPEARANCE TO HAIR",
+            "body": "This take-home anti-breakage cosmetic hair treatment helps restore a dense, vibrant, healthy appearance to hair and helps reduce hair breakage by an average of 54%.",
+            "details": [
+                ["HOW IT WORKS", "Density Restoration contains Crystalline Infusion that provides significant anti-breakage action following your Dermabrasion Treatment."],
+                ["PRODUCT GUIDE", "Apply Density Restoration to the scalp every evening in the month after a Dermabrasion Treatment."]
+            ],
+            "images": ["img/products/nioxin/scalp/flacon_scalp.png", "img/products/nioxin/scalp/scalp_renew.png"],
+            "category": "scalp"
+        }, {
+            "name": "THERM ACTIV PROTECTOR",
+            "details": [
+                ["DESCRIPTION", "A heat-activated spray that protects hair against breakage."],
+                ["LIGHTPLEX", "LIGHTPLEX technology for lightweight effects on thinning hair: A professional technology with polymers and conditioning agents that provide light styling hold without a stiff, rigid look and feel."]
+            ],
+            "images": ["img/products/nioxin/styling/styling_prep.png"],
+            "category": "styling"
+        }
+    ]
+
+
+
+
+
+}
